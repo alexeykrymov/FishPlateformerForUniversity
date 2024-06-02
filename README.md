@@ -1,7 +1,6 @@
 The problem of my project is environmental pollution. The concept is that little fish travels through the sea, forest, city and kills garbage monsters freeing the world from dirt.
 
 ----
-
 <p align="center">
   <br>
   <strong>Click on the picture to play</strong>
