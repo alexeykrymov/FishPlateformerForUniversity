@@ -17,13 +17,25 @@ The problem of my project is environmental pollution. The concept is that little
 </p>
 
 ----
-![Image Sequence_003_0001](https://github.com/alexeykrymov/FishPlateformerForUniversity/assets/55350467/5bc39c55-cca6-444a-b47a-3829088cd020)
+<p align="center">
+  <br>
+  <img src="https://github.com/alexeykrymov/FishPlateformerForUniversity/assets/55350467/5bc39c55-cca6-444a-b47a-3829088cd020" alt="FishPlateformerForUniversity"border="10"/>   
+  </a>  
+</p>
 
 ----
-![Image Sequence_004_0001](https://github.com/alexeykrymov/FishPlateformerForUniversity/assets/55350467/3ff00ffc-14b7-408d-b463-09689ed4ab0f)
+<p align="center">
+  <br>
+  <img src="https://github.com/alexeykrymov/FishPlateformerForUniversity/assets/55350467/3ff00ffc-14b7-408d-b463-09689ed4ab0f" alt="FishPlateformerForUniversity"border="10"/>   
+  </a>  
+</p>
 
 ----
-![Image Sequence_001_0000](https://github.com/alexeykrymov/FishPlateformerForUniversity/assets/55350467/8d0887e6-fa9e-42cc-9748-e903b9e37822)
+<p align="center">
+  <br>
+  <img src="https://github.com/alexeykrymov/FishPlateformerForUniversity/assets/55350467/8d0887e6-fa9e-42cc-9748-e903b9e37822" alt="FishPlateformerForUniversity"border="10"/>   
+  </a>  
+</p>
 
 
 
