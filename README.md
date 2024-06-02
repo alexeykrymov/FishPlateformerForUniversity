@@ -5,4 +5,5 @@ The problem of my project is environmental pollution. The concept is that little
 
 
 
-![34](https://github.com/alexeykrymov/FishPlateformerForUniversity/assets/55350467/9a8e7d4c-7967-436c-8901-1b5995cb3eab)
+
+![34](https://github.com/alexeykrymov/FishPlateformerForUniversity/assets/55350467/9b9e690f-e9e5-4e06-a8fe-a2e50ab98b2d)
