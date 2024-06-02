@@ -12,7 +12,7 @@ The problem of my project is environmental pollution. The concept is that little
 ----
 <p align="center">
   <br>
-  <img src="https://github.com/alexeykrymov/FishPlateformerForUniversity/assets/55350467/fa6f76c5-9109-4a45-b64a-aa68d8153989" alt="FishPlateformerForUniversity" width="100%" height="100%" border="10"/>   
+  <img src="https://github.com/alexeykrymov/FishPlateformerForUniversity/assets/55350467/fa6f76c5-9109-4a45-b64a-aa68d8153989" alt="FishPlateformerForUniversity"border="10"/>   
   </a>  
 </p>
 
