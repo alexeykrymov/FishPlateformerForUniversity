@@ -10,7 +10,11 @@ The problem of my project is environmental pollution. The concept is that little
 </p>
 
 ----
-![Image Sequence_002_0001](https://github.com/alexeykrymov/FishPlateformerForUniversity/assets/55350467/fa6f76c5-9109-4a45-b64a-aa68d8153989)
+<p align="center">
+  <br>
+  <img src="https://github.com/alexeykrymov/FishPlateformerForUniversity/assets/55350467/fa6f76c5-9109-4a45-b64a-aa68d8153989" alt="FishPlateformerForUniversity" width="100%" height="100%" border="10"/>   
+  </a>  
+</p>
 
 ----
 ![Image Sequence_003_0001](https://github.com/alexeykrymov/FishPlateformerForUniversity/assets/55350467/5bc39c55-cca6-444a-b47a-3829088cd020)
